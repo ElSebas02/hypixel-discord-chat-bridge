@@ -1,3 +1,7 @@
+var optional;
+
+console.log(`Node 14! ${optional?.chaining}`);
+
 'use strict'
 process.title = 'Hypixel Discord Chat Bridge'
 

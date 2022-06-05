@@ -1,0 +1,3 @@
+language = "nodejs"
+onBoot = "bash install.sh"
+run = "bash start.sh"
